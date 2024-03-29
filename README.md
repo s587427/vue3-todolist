@@ -1,3 +1,6 @@
+# Vue cheat Sheet
+
+```vue
 <!-- 定義一個SFC -->
 <script setup>
 
@@ -57,3 +60,7 @@
 </template>
 
 <style scoped></style>
+
+```
+
+
